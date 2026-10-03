@@ -19,6 +19,7 @@
 
 # production
 /build
+/asset-sources/
 
 # misc
 .DS_Store
